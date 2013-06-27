@@ -9,4 +9,4 @@ Simply enter in whether you want to 'lookup' the follow information about a stre
 
 An Ulam Spiral is used as the stream structure. 
 
-More information here: 
+More information here: https://bitmessage.org/forum/index.php/topic,2549.0.html
